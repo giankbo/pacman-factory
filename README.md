@@ -1,9 +1,9 @@
 <div align="center" id="top"> 
-  <img src="./images/PacMan1.png" alt="Pacman Factory" />
+  <img src="./images/PacMan5.gif" alt="Pacman Factory" width="600" height="150"/>
 
 &#xa0;
 
-<a href="./pacman-factory">Demo</a>
+<a href="https://github.com/giankbo/pacman-factory">Demo</a>
 
 </div>
 
