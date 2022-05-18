@@ -52,7 +52,7 @@ Before starting, you need to have [Git](https://git-scm.com) and [Visual Studio 
 $ git clone https://github.com/giankbo/pacman-factory
 
 # Access
-$ cd pacman-exercise
+$ cd pacman-factory
 
 ```
 
