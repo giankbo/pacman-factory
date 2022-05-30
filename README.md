@@ -3,7 +3,7 @@
 
 &#xa0;
 
-<a href="https://github.com/giankbo/pacman-factory">Demo</a>
+<a href="https://giankbo.github.io/pacman-factory/">Demo</a>
 
 </div>
 
